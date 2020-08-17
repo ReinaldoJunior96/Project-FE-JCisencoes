@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee2b3ce-dea6-4f61-a984-f917992c1387" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Compradeusado.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consorcio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DuvidasDPVAT.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emplacamento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legislacao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OfertasVeiculos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/ROADMAP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/dist/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/css/docs.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/bird_blue_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-drag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-module.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/feature-zombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/owl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/img/twitter_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/js/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/owlcarousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/vendors/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/vendors/highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/vendors/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/vendors/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/assets/vendors/jquery.mousewheel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/autoheight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/autoplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/autowidth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/center.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/demos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/lazyLoad.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/merge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/mousewheel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/rtl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/stagepadding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/urlhashnav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/demos/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/api-classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/api-events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/api-options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/dev-buildin-plugins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/dev-external.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/dev-plugin-api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/dev-styles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/started-faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/started-installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/started-welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/support-changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/support-contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/docs/support-contributing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/bird_blue_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-drag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-module.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/feature-zombie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/owl-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/img/twitter_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/js/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/_settings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/demos.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/docs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/docs.theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/scss/highlight.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/vendors/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/vendors/highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/vendors/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/vendors/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/assets/vendors/jquery.mousewheel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/data/classes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/data/events.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/data/features.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/data/options.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/helpers/modulo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/helpers/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/layouts/demos.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/layouts/docs.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/layouts/home.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/animate.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/autoheight.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/autoplay.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/autowidth.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/basic.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/center.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/demos.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/events.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/lazyLoad.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/merge.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/mousewheel.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/responsive.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/rtl.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/stagepadding.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/test.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/urlhashnav.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/demos/video.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/api-classes.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/api-events.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/api-options.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/dev-external.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/dev-plugin-api.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/dev-styles.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/started-faq.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/started-installation.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/started-welcome.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/support-changelog.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/support-contact.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/docs/support-contributing.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/pages/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/footer.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/head.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/header.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/home-carousel.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/home-features.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/home-hero.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/home-teaser-text.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/javascripts.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/releated-docs.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/sidenav-docs.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/title.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/docs_src/templates/partials/vendors.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/img/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/img/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/.jscsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.animate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.autoheight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.autoplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.autorefresh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.hash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.support.modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/js/owl.video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_animate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_autoheight.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_lazyload.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_theme.default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_theme.green.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/_video.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/owl.carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/owl.theme.default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/src/scss/owl.theme.green.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/test/unit/autoplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Owl/test/unit/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessoOnline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuemTemDireito.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seguro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeguroDPVAT.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServicoInsercao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.dropotron.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.onvisible.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/skel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_skel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/COMPASS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FiatArgo960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Honda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/JEEP-RENEGADEpromo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Jeep-Renegade960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/LogoToyota.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Nissan-Kicks-SL-01-960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Novo-Grand-Siena-2017-04960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ONIX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/255193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/Parceiros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/banner-proposta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/banner-wm1-car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/novafoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/nuncamais.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/seguro_dpvat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/slide-1-1024x731.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Originals/slide-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Outros/SeguroDPVATJC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Outros/emplacamento.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Outros/jcisencoesduvidasDPVAT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Outros/seguro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Renault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Volkswagen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner2v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner3v5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/bannerhome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/canopus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/consorcio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner2v2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner3v5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/captur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/captur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/creta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/duster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/fox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/hb20.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/march.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/polo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/sandero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros oriinaira/versa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/FiatArgo960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/Nissan-Kicks-SL-01-960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/Novo-Grand-Siena-2017-04960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_cactus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_creta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_cronos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_discovery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_ecosport.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_fordKA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_gol.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_kicks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_mobi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_onix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_peg2008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_sandero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_t-cross.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/c_trialblazer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/captur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/creta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/duster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/duster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/fox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/hb20.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/jeep_compass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/jeep_renegade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/kaSEDA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/kwid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/march.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/nova-Pajero-TR4-960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/polo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/sandero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/carros/versa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/creta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cronos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/duster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/duster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/emplacamento.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ford.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hb20.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hyndai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jcisencoesduvidasDPVAT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jeep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kaSEDA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kwid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_cidep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/Honda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/LogoToyota.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/Renault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/Volkswagen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/chery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/chevrolet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/fiat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/ford.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/hyndai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/jeep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/landrover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/logo-jc-isencoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/logo_cidep.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/mercedes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/nissan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logos/selo-ipva.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/march.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobi-1960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nissan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nova-Pajero-TR4-960x720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/polo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/processo_online/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sandero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sanderostaway.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/seguro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/selo-ipva.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/versa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Carrosel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temporary.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gCamhzklgT77bk5rZRCJEGvaHQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee2b3ce-dea6-4f61-a984-f917992c1387" name="Default Changelist" comment="" />
+      <created>1597621188509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597621188509</updated>
+      <workItem from="1597621189716" duration="1986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1597622028991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597622028991" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1597622028991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597622028991" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1597622028991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597622028991" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1597622028991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597622028991" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1597622342900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597622342900" />
+  </component>
+</project>
