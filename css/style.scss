@@ -1,105 +1,98 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Racing+Sans+One&display=swap");
-
-$theme-colors: (
-        "primary": #22385C,
+$theme-colors: ( "primary": #22385C,
 );
-
 .montserrat {
-  font-family: "Montserrat", sans-serif
-}
-
-.bg {
-  backdrop-filter: blur();
+    font-family: "Montserrat", sans-serif;
 }
 
 .rancing {
-  font-family: "Racing Sans One", cursive
+    font-family: "Racing Sans One", cursive
 }
 
 .navbar-gradient {
-  background: linear-gradient(to right, #223a5c, #235e5f)
+    background: linear-gradient(to right, #223a5c, #235e5f)
 }
 
 .nav-link {
-  text-decoration: none !important;
-  color: #ffff !important;
-  font-size: 1.3em
+    text-decoration: none !important;
+    color: #ffff !important;
+    font-size: 1.3em
 }
 
 .drop-customizado {
-  width: 250px !important
+    width: 250px !important
 }
 
 .fa-arrow-left {
-  padding: 1em;
-  border-radius: 3em;
-  font-size: 25px;
-  cursor: pointer
+    padding: 1em;
+    border-radius: 3em;
+    font-size: 25px;
+    cursor: pointer
 }
 
 .fa-arrow-right {
-  padding: 1em;
-  border-radius: 3em;
-  font-size: 25px;
-  cursor: pointer
+    padding: 1em;
+    border-radius: 3em;
+    font-size: 25px;
+    cursor: pointer
 }
 
 .foto-entrega {
-  transition: transform 0.5s;
-  position: relative;
-  z-index: 20
+    transition: transform 0.5s;
+    position: relative;
+    z-index: 20
 }
 
 .foto-entrega:hover {
-  -ms-transform: scale(1.3);
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3)
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3)
 }
 
 .gallery {
-  -webkit-column-count: 3;
-  -moz-column-count: 3;
-  column-count: 3;
-  -webkit-column-width: 33%;
-  -moz-column-width: 33%;
-  column-width: 33%
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-width: 33%;
+    -moz-column-width: 33%;
+    column-width: 33%
 }
 
 @media (max-width: 576px) {
-  .off-controller {
-    display: none
-  }
-  .font-title {
-    font-size: 4em
-  }
-  .footer-info {
-    font-size: 1.8em
-  }
+    .off-controller {
+        display: none
+    }
+    .font-title {
+        font-size: 4em
+    }
+    .footer-info {
+        font-size: 1.8em
+    }
 }
 
 @media (max-width: 768px) {
-  .off-controller {
-    display: none
-  }
-  .font-title {
-    font-size: 1.5em
-  }
-  .footer-info {
-    font-size: 0.8em
-  }
+    .off-controller {
+        display: none
+    }
+    .font-title {
+        font-size: 1.5em
+    }
+    .footer-info {
+        font-size: 0.8em
+    }
 }
 
 @media (min-width: 992px) {
-  .footer-info {
-    font-size: 1.3em
-  }
+    .footer-info {
+        font-size: 1.3em
+    }
 }
 
 @media (min-width: 1200px) {
-  .footer-info {
-    font-size: 1.3em
-  }
+    .footer-info {
+        font-size: 1.3em
+    }
 }
 
 @import "../node_modules/bootstrap/scss/bootstrap";
